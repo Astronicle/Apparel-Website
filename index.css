@@ -164,6 +164,11 @@ body {
     font-size: 18px;
   }
 
+  .ClothCards_img {
+    height: 200px;
+    width: 200px;
+  }
+
   .Review_sections {
     margin: 2rem 1rem;
     width: 80vw;
